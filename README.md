@@ -42,13 +42,14 @@ I am a passionate software developer with experience in machine learning, data a
 
 ## ⚡ Technologies & Tools
 
-- [Python](https://www.python.org/)
-- [TensorFlow](https://www.tensorflow.org/)
+- 🐍 Python
+- ![TensorFlow](custom-icons/tensorflow-icon.png) TensorFlow
 - [scikit-learn](https://scikit-learn.org/)
-- [Pandas](https://pandas.pydata.org/)
-- [Git](https://git-scm.com/)
+- 🐼 Pandas
+- ![Git](custom-icons/git-icon.png) Git
 - [GitHub](https://github.com/)
-- [VS Code](https://code.visualstudio.com/)
+- 🖥️ VS Code
+
 ## 🏆 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=boladimeji834&show_icons=true&theme=radical)
