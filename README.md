@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a passionate software developer with experience in machine learning, data analysis, and web development. Currently, I am interning at Ignite Tech, where I am working on exciting projects like predicting student performance using machine learning techniques.
+I am a passionate software developer with experience in **machine learning**, **data analysis**, and **web development**. Currently, I am interning at **Ignite Tech**, where I am working on exciting projects like predicting student performance using machine learning techniques.
 
 ## 🔭 Projects
 
@@ -33,12 +33,11 @@ I am a passionate software developer with experience in machine learning, data a
 - Technologies used: Python, TensorFlow, scikit-learn.
 - [View Project](https://github.com/your-username/titanic-survival)
 
-
 ## 📫 How to Reach Me
 
 - [Email](mailto:boladimeji834@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/balogunoladimeji/)
-- [Twitter](https://twitter.com/wave_mux)
+- [Twitter](https://twitter.com/boladimeji834_)
 
 ## ⚡ Technologies & Tools
 
@@ -49,6 +48,9 @@ I am a passionate software developer with experience in machine learning, data a
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
+![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=heroku)
+![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=streamlit)
 
 ## 🏆 GitHub Stats
 
