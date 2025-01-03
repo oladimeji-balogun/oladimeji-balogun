@@ -8,13 +8,6 @@ I am a passionate Data Scientist, Machine Learning Engineer, and AI Engineer wit
 
 ## 🔭 Projects
 
-
-
-### [Movie Recommender System](https://github.com/your-username/movie-recommender-system)
-- Developed a recommendation engine leveraging both collaborative filtering and content-based filtering techniques.
-- **Technologies used**: Python, TensorFlow, scikit-learn.
-- [View Project](https://github.com/your-username/movie-recommender-system)
-
 ### [Agentic Healthcare Support Assistant](https://github.com/boladimeji834/Agentic-Healthcare-Support-Assistant)
 - Created a recommendation engine for healthcare support, integrating collaborative filtering and content-based filtering.
 - **Technologies used**: Python, TensorFlow, scikit-learn, LangChain.
