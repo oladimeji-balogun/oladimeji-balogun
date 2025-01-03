@@ -1,42 +1,56 @@
-# Hi, I'm Oladimeji Balogun 👋
+# Hi, I'm Oladimeji 👋
 
 ![Profile views](https://gpvc.arturio.dev/boladimeji834)
 
 ## About Me
 
-I am a passionate software developer with experience in **machine learning**, **data analysis**, and **web development**. Currently, I am interning at **Ignite Tech**, where I am working on exciting projects like predicting student performance using machine learning techniques.
+I am a passionate Data Scientist, Machine Learning Engineer, and AI Engineer with a strong focus on leveraging data to drive actionable insights and solve complex problems. Currently working at My Health Integral, I am involved in impactful projects such as predicting healthcare outcomes and improving patient care through advanced machine learning techniques. I am committed to using AI and data science to transform industries and create meaningful solutions. With a drive for continuous learning, I thrive in environments that challenge me to push the boundaries of technology and innovation.
 
 ## 🔭 Projects
 
-### [Student Performance Prediction](https://github.com/your-username/student-performance-prediction)
-- Developed during my internship at Ignite Tech.
-- Uses machine learning to predict student performance based on academic and socio-economic data.
-- [View Project](https://github.com/your-username/student-performance-prediction)
+
 
 ### [Movie Recommender System](https://github.com/your-username/movie-recommender-system)
-- Built a recommendation engine using collaborative filtering and content-based filtering.
-- Technologies used: Python, TensorFlow, scikit-learn.
+- Developed a recommendation engine leveraging both collaborative filtering and content-based filtering techniques.
+- **Technologies used**: Python, TensorFlow, scikit-learn.
 - [View Project](https://github.com/your-username/movie-recommender-system)
 
-### [Laptop Sales Prices Analysis](https://github.com/your-username/laptop-sales-prices)
-- Analyzed historical sales data to predict laptop prices.
-- Technologies used: Python, Pandas, Matplotlib, scikit-learn.
-- [View Project](https://github.com/your-username/laptop-sales-prices)
+### [Agentic Healthcare Support Assistant](https://github.com/boladimeji834/Agentic-Healthcare-Support-Assistant)
+- Created a recommendation engine for healthcare support, integrating collaborative filtering and content-based filtering.
+- **Technologies used**: Python, TensorFlow, scikit-learn, LangChain.
+- [View Project](https://github.com/boladimeji834/Agentic-Healthcare-Support-Assistant)
 
-### [Educational Spending Analysis](https://github.com/your-username/educational-spending)
-- Investigated the relationship between educational spending and student performance across different regions.
-- Technologies used: Python, Pandas, Seaborn.
-- [View Project](https://github.com/your-username/educational-spending)
+### [Anaemia Prediction Application](https://github.com/boladimeji834/Anaemia-Prediction/tree/master)
+- Developed a predictive system for diagnosing anaemia in patients based on medical data.
+- **Technologies used**: Python, TensorFlow, scikit-learn.
+- [View Project](https://github.com/boladimeji834/Anaemia-Prediction/tree/master)
 
-### [Titanic Survival Prediction](https://github.com/your-username/titanic-survival)
-- Predicted survival rates on the Titanic using machine learning models.
-- Technologies used: Python, TensorFlow, scikit-learn.
-- [View Project](https://github.com/your-username/titanic-survival)
+### [Image Recognition App](https://github.com/boladimeji834/ImageRecognitionApp)
+- Built an image recognition system utilizing advanced machine learning algorithms for accurate classification.
+- **Technologies used**: Python, TensorFlow, scikit-learn.
+- [View Project](https://github.com/boladimeji834/ImageRecognitionApp)
+
+### [Churn Prediction at PowerCo](https://github.com/boladimeji834/Churn-Prediction-At-PowerCo)
+- Developed a predictive model to identify potential churn among customers at PowerCo.
+- **Technologies used**: Python, TensorFlow, scikit-learn.
+- [View Project](https://github.com/boladimeji834/Churn-Prediction-At-PowerCo)
+
+### [Governmental Educational Spending Analysis](https://github.com/boladimeji834/Panda-Premiere-Project)
+- Analyzed governmental educational spending and its impact on student performance across different regions.
+- **Technologies used**: Python, Pandas, Seaborn.
+- [View Project](https://github.com/boladimeji834/Panda-Premiere-Project)
+
+### [Air Quality Prediction](https://github.com/boladimeji834/Airqo-Air-Quality-Prediction)
+- Built a predictive model to forecast air quality using historical data and environmental factors.
+- **Technologies used**: Python, TensorFlow, scikit-learn.
+- [View Project](https://github.com/boladimeji834/Airqo-Air-Quality-Prediction)
+
+
 
 ## 📫 How to Reach Me
 
 - [Email](mailto:boladimeji834@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/balogunoladimeji/)
+- [LinkedIn](https://www.linkedin.com/in/oladimeji-balogun/)
 - [Twitter](https://twitter.com/boladimeji834_)
 
 ## ⚡ Technologies & Tools
