@@ -1,64 +1,100 @@
-# Hi, I'm Oladimeji 👋
+# Hi, I'm Oladimeji 👋  
 
-![Profile views](https://gpvc.arturio.dev/boladimeji834)
+![Profile views](https://gpvc.arturio.dev/boladimeji834)  
 
-## About Me
+🚀 **Machine Learning Engineer | AI Researcher | Data Scientist**  
+Passionate about Deep Learning, NLP, and AI-driven solutions  
 
-I am a passionate Data Scientist, Machine Learning Engineer, and AI Engineer with a strong focus on leveraging data to drive actionable insights and solve complex problems. Currently working at My Health Integral, I am involved in impactful projects such as predicting healthcare outcomes and improving patient care through advanced machine learning techniques. I am committed to using AI and data science to transform industries and create meaningful solutions. With a drive for continuous learning, I thrive in environments that challenge me to push the boundaries of technology and innovation.
+---
 
-## 🔭 Projects
+## 📌 About Me  
 
-### [Agentic Healthcare Support Assistant](https://github.com/boladimeji834/Agentic-Healthcare-Support-Assistant)
-- Created a recommendation engine for healthcare support, integrating collaborative filtering and content-based filtering.
-- **Technologies used**: Python, TensorFlow, scikit-learn, LangChain.
-- [View Project](https://github.com/boladimeji834/Agentic-Healthcare-Support-Assistant)
+I am a **Machine Learning Engineer, Data Scientist, and AI Researcher** dedicated to leveraging AI to solve real-world problems. Currently, I work at **My Health Integral**, where I develop AI models for **healthcare predictions** and **patient care optimization**.  
 
-### [Anaemia Prediction Application](https://github.com/boladimeji834/Anaemia-Prediction/tree/master)
-- Developed a predictive system for diagnosing anaemia in patients based on medical data.
-- **Technologies used**: Python, TensorFlow, scikit-learn.
-- [View Project](https://github.com/boladimeji834/Anaemia-Prediction/tree/master)
+I am particularly interested in:  
+- **Deep Learning & Large Language Models (LLMs)**  
+- **AI in Healthcare**  
+- **MLOps & AI Deployment**  
+- **Adversarial Attacks & AI Security**  
 
-### [Image Recognition App](https://github.com/boladimeji834/ImageRecognitionApp)
-- Built an image recognition system utilizing advanced machine learning algorithms for accurate classification.
-- **Technologies used**: Python, TensorFlow, scikit-learn.
-- [View Project](https://github.com/boladimeji834/ImageRecognitionApp)
+With a strong background in AI/ML, I constantly seek innovative ways to push the boundaries of technology while contributing to **open-source AI projects**.
 
-### [Churn Prediction at PowerCo](https://github.com/boladimeji834/Churn-Prediction-At-PowerCo)
-- Developed a predictive model to identify potential churn among customers at PowerCo.
-- **Technologies used**: Python, TensorFlow, scikit-learn.
-- [View Project](https://github.com/boladimeji834/Churn-Prediction-At-PowerCo)
+---
 
-### [Governmental Educational Spending Analysis](https://github.com/boladimeji834/Panda-Premiere-Project)
-- Analyzed governmental educational spending and its impact on student performance across different regions.
-- **Technologies used**: Python, Pandas, Seaborn.
-- [View Project](https://github.com/boladimeji834/Panda-Premiere-Project)
+## 🔭 Featured Projects  
 
-### [Air Quality Prediction](https://github.com/boladimeji834/Airqo-Air-Quality-Prediction)
-- Built a predictive model to forecast air quality using historical data and environmental factors.
-- **Technologies used**: Python, TensorFlow, scikit-learn.
-- [View Project](https://github.com/boladimeji834/Airqo-Air-Quality-Prediction)
+### [Agentic Healthcare Support Assistant](https://github.com/boladimeji834/Agentic-Healthcare-Support-Assistant)  
+- AI-powered healthcare assistant integrating **collaborative filtering** and **content-based recommendations**.  
+- **Tech Stack**: Python, TensorFlow, scikit-learn, LangChain.  
 
+### [Anaemia Prediction Application](https://github.com/boladimeji834/Anaemia-Prediction/tree/master)  
+- Built a predictive model for diagnosing **anaemia** using medical data.  
+- **Tech Stack**: Python, TensorFlow, scikit-learn.  
 
+### [Image Recognition App](https://github.com/boladimeji834/ImageRecognitionApp)  
+- Developed a **deep learning-based image classification** model.  
+- **Tech Stack**: Python, TensorFlow, scikit-learn.  
 
-## 📫 How to Reach Me
+📌 **More projects:** [See all on GitHub](https://github.com/boladimeji834?tab=repositories)  
 
-- [Email](mailto:boladimeji834@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/oladimeji-balogun/)
-- [Twitter](https://twitter.com/boladimeji834_)
+---
 
-## ⚡ Technologies & Tools
+## 📖 What I’m Currently Learning  
+- **Reinforcement Learning for AI Agents** 🤖  
+- **Advanced MLOps (Model Deployment & Monitoring)** 🚀  
+- **Large Language Models (LLMs) & Generative AI** 🧠  
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-000?&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
-![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=heroku)
-![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=streamlit)
+---
 
-## 🏆 GitHub Stats
+## 💡 Open to Collaborations  
+I am open to working on:  
+- AI **research papers & publications** 📚  
+- **Open-source AI/ML projects** 🔬  
+- AI-powered **healthcare solutions** 🏥  
+- **MLOps & AI Deployment strategies** 🌍  
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=boladimeji834&show_icons=true&theme=radical)
+Feel free to **reach out** if you're working on something exciting! 🚀  
+
+---
+
+## ⚙️ Technologies & Tools  
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)  
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-000?&logo=scikit-learn)  
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)  
+![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=Numpy)  
+![LangChain](https://img.shields.io/badge/-LangChain-000?&logo=LangChain)  
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)  
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)  
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)  
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)  
+![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=streamlit)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code)  
+
+---
+
+## 🏆 GitHub Stats  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=boladimeji834&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boladimeji834&layout=compact&theme=radical)  
+
+---
+
+## 📝 Latest Blog Posts  
+- [How to Fine-Tune Large Language Models with Keras](https://medium.com/@boladimeji834)  
+- [Deploying AI Models with FastAPI and Docker](https://medium.com/@boladimeji834)  
+- [Understanding Adversarial Attacks on Deep Learning Models](https://medium.com/@boladimeji834)  
+
+---
+
+## 📫 How to Reach Me  
+
+📧 [Email](mailto:boladimeji834@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/oladimeji-balogun/)  
+🐦 [Twitter](https://twitter.com/boladimeji834_)  
+
+---
+
+💡 *"AI is not just about machines learning; it's about humans teaching machines to enhance human lives."* 🚀  
