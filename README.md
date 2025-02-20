@@ -1,100 +1,50 @@
-# Hi, I'm Oladimeji 👋  
+# Hi, I'm Oladimeji 👋
 
-![Profile views](https://gpvc.arturio.dev/boladimeji834)  
+![Profile views](https://gpvc.arturio.dev/boladimeji834)
 
-🚀 **Machine Learning Engineer | AI Researcher | Data Scientist**  
-Passionate about Deep Learning, NLP, and AI-driven solutions  
+## About Me
 
----
+I am a passionate **Machine Learning Engineer, Data Scientist, and AI Researcher** dedicated to building intelligent systems that drive innovation and solve real-world problems. Currently, I work at **My Health Integral**, leveraging AI to enhance healthcare outcomes through predictive modeling and deep learning solutions.  
 
-## 📌 About Me  
+With expertise in **computer vision, natural language processing, and statistical modeling**, I enjoy working on AI-driven applications that improve decision-making, optimize processes, and create impact across industries. My goal is to push the boundaries of AI by exploring advanced techniques, deploying scalable solutions, and contributing to open-source projects.  
 
-I am a **Machine Learning Engineer, Data Scientist, and AI Researcher** dedicated to leveraging AI to solve real-world problems. Currently, I work at **My Health Integral**, where I develop AI models for **healthcare predictions** and **patient care optimization**.  
+I thrive in collaborative environments where cutting-edge technology meets meaningful problem-solving, and I am always eager to learn, teach, and share insights in the AI/ML community.  
 
-I am particularly interested in:  
-- **Deep Learning & Large Language Models (LLMs)**  
-- **AI in Healthcare**  
-- **MLOps & AI Deployment**  
-- **Adversarial Attacks & AI Security**  
+## ⚡ Technologies & Tools  
 
-With a strong background in AI/ML, I constantly seek innovative ways to push the boundaries of technology while contributing to **open-source AI projects**.
-
----
-
-## 🔭 Featured Projects  
-
-### [Agentic Healthcare Support Assistant](https://github.com/boladimeji834/Agentic-Healthcare-Support-Assistant)  
-- AI-powered healthcare assistant integrating **collaborative filtering** and **content-based recommendations**.  
-- **Tech Stack**: Python, TensorFlow, scikit-learn, LangChain.  
-
-### [Anaemia Prediction Application](https://github.com/boladimeji834/Anaemia-Prediction/tree/master)  
-- Built a predictive model for diagnosing **anaemia** using medical data.  
-- **Tech Stack**: Python, TensorFlow, scikit-learn.  
-
-### [Image Recognition App](https://github.com/boladimeji834/ImageRecognitionApp)  
-- Developed a **deep learning-based image classification** model.  
-- **Tech Stack**: Python, TensorFlow, scikit-learn.  
-
-📌 **More projects:** [See all on GitHub](https://github.com/boladimeji834?tab=repositories)  
-
----
-
-## 📖 What I’m Currently Learning  
-- **Reinforcement Learning for AI Agents** 🤖  
-- **Advanced MLOps (Model Deployment & Monitoring)** 🚀  
-- **Large Language Models (LLMs) & Generative AI** 🧠  
-
----
-
-## 💡 Open to Collaborations  
-I am open to working on:  
-- AI **research papers & publications** 📚  
-- **Open-source AI/ML projects** 🔬  
-- AI-powered **healthcare solutions** 🏥  
-- **MLOps & AI Deployment strategies** 🌍  
-
-Feel free to **reach out** if you're working on something exciting! 🚀  
-
----
-
-## ⚙️ Technologies & Tools  
-
+### **Programming & Frameworks**  
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)  
+![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)  
+
+### **Machine Learning & Deep Learning**  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)  
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-000?&logo=scikit-learn)  
+
+### **Data Science & Analytics**  
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)  
-![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=Numpy)  
-![LangChain](https://img.shields.io/badge/-LangChain-000?&logo=LangChain)  
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)  
+![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)  
+![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=seaborn)  
+
+### **Development & Deployment**  
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)  
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)  
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)  
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)  
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)  
 ![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=streamlit)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code)  
-
----
-
-## 🏆 GitHub Stats  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=boladimeji834&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boladimeji834&layout=compact&theme=radical)  
-
----
-
-## 📝 Latest Blog Posts  
-- [How to Fine-Tune Large Language Models with Keras](https://medium.com/@boladimeji834)  
-- [Deploying AI Models with FastAPI and Docker](https://medium.com/@boladimeji834)  
-- [Understanding Adversarial Attacks on Deep Learning Models](https://medium.com/@boladimeji834)  
-
----
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes)  
+![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=heroku)  
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazon-aws)  
 
 ## 📫 How to Reach Me  
 
-📧 [Email](mailto:boladimeji834@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/oladimeji-balogun/)  
-🐦 [Twitter](https://twitter.com/boladimeji834_)  
+- [Email](mailto:boladimeji834@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/oladimeji-balogun/)  
+- [Twitter](https://twitter.com/boladimeji834_)  
 
----
+## 🏆 GitHub Stats  
 
-💡 *"AI is not just about machines learning; it's about humans teaching machines to enhance human lives."* 🚀  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=boladimeji834&show_icons=true&theme=radical)  
