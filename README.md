@@ -15,7 +15,7 @@ I thrive in collaborative environments where cutting-edge technology meets meani
 ### **Programming & Frameworks**  
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)  
-![C++](https://img.shields.io/badge/-C++-000?&logo=C)  
+![C](https://img.shields.io/badge/-C++-000?&logo=C)  
 
 ### **Machine Learning & Deep Learning**  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)  
