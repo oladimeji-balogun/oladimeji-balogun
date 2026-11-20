@@ -1,29 +1,18 @@
-# Hi, I'm Oladimeji 👋
+### Hi, I'm Oladimeji
 
-**ML / AI engineer** building LLM agents, real-time voice AI, and efficient deep learning systems, with a soft spot for **low-resource African languages** and **healthcare AI**.
+I'm an ML engineer. These days I mostly build LLM agents and voice AI, and I care a lot about making models work under real constraints: cheap hardware, low-resource languages, messy data. Healthcare and African languages are where I keep ending up.
 
-I like taking models past the notebook: production-grade backends, grounded retrieval, evaluation, and systems that run under real constraints.
+**Things I've built**
 
-## 🚀 Featured projects
+- [voice-desk](https://github.com/oladimeji-balogun/voice-desk): a voice support agent for an online store. You talk to it in the browser about orders and returns and it talks back, grounded in real order data and store policy. LiveKit, Deepgram, Cartesia, OpenAI, FastAPI, pgvector.
+- [shopdesk-support](https://github.com/oladimeji-balogun/shopdesk-support): a text support agent that decides whether a question needs the knowledge base (RAG), a database lookup (tool call) or a human, then handles it. LangChain, Groq, Pinecone, FastAPI.
+- [photon](https://github.com/oladimeji-balogun/photon-backend): an LLM agent system that writes reviews in a specific Yelp user's voice and recommends places for them. Built for the DSN x Bluechip LLM Agent Challenge. LangGraph, Groq, BM25.
+- [pneumonia-xai](https://github.com/oladimeji-balogun/pneumonia-xai): a small CNN I designed (270K params) for pneumonia detection on chest X-rays. It's about 8x faster on CPU than MobileNetV2 for a small drop in AUC, and comes with Grad-CAM to check what it's actually looking at.
+- [agentic-doctor-appointment-system](https://github.com/oladimeji-balogun/agentic-doctor-appointment-system): a multi-agent assistant for booking and managing doctor appointments. [Live demo](https://agentic-doctor-appointment-system.vercel.app).
+- [yoruba-instruct](https://github.com/oladimeji-balogun/yoruba-instruct) (in progress): building a Yoruba instruction dataset to fine-tune Qwen 2.5-3B with QLoRA, SFT and DPO.
 
-| Project | What it is | Stack |
-|---|---|---|
-| [**VoiceDesk**](https://github.com/oladimeji-balogun/voice-desk) | Real-time voice support agent for e-commerce: speak in the browser, get spoken answers grounded in orders and policies, with barge-in and VAD turn-taking. | LiveKit · Deepgram · Cartesia · OpenAI · FastAPI · pgvector |
-| [**ShopDesk Support**](https://github.com/oladimeji-balogun/shopdesk-support) | Autonomous support agent that routes every query to RAG, tool calling, or human escalation. JWT auth, rate limiting, Dockerised. | LangChain · Groq · Pinecone · FastAPI |
-| [**Photon**](https://github.com/oladimeji-balogun/photon-backend) | LLM agent system that simulates user reviews and generates personalised recommendations from the Yelp dataset. DSN × Bluechip LLM Agent Challenge, 2026. | LangGraph · Groq · BM25 · Docker |
-| [**Pneumonia XAI**](https://github.com/oladimeji-balogun/pneumonia-xai) | Explainable pneumonia detection under compute constraints. My custom 270K-param **LightCXR** hits 0.947 AUC-ROC and runs 6.5× faster on CPU than ResNet-18, with Grad-CAM. | PyTorch · Grad-CAM |
-| [**Yoruba Instruct**](https://github.com/oladimeji-balogun/yoruba-instruct) 🚧 | *In progress:* a Yoruba instruction dataset (translated Alpaca), toward fine-tuning Qwen 2.5-3B with QLoRA, SFT and DPO. | Transformers · Datasets · PyTorch |
-| [**Agentic Doctor Appointments**](https://github.com/oladimeji-balogun/agentic-doctor-appointment-system) | Multi-agent healthcare assistant that books and manages appointments. [Live demo ↗](https://agentic-doctor-appointment-system.vercel.app) | LangGraph · React · TypeScript |
+I also write C++ when I want to slow down and understand things properly, e.g. [savant](https://github.com/oladimeji-balogun/savant) and [banksy](https://github.com/oladimeji-balogun/banksy).
 
-## 🧰 Tools I use
+**Tools I reach for:** Python, PyTorch, Hugging Face, LangGraph/LangChain, FastAPI, Postgres/pgvector, Docker, LiveKit. Some React, C++ and Go.
 
-**ML & LLMs:** PyTorch · Transformers · LangGraph · LangChain · RAG · QLoRA / DPO · scikit-learn<br>
-**Voice & real-time:** LiveKit · Deepgram · Cartesia · WebSockets<br>
-**Backend & data:** Python · FastAPI · PostgreSQL / pgvector · Pinecone · Docker<br>
-**Also:** C++ (CMake, gtest) · React · Go
-
-## 📫 Reach me
-
-[LinkedIn](https://www.linkedin.com/in/oladimeji-balogun/) · [X / Twitter](https://x.com/dimeji_ai) · [Email](mailto:oladimejibee.me@gmail.com)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=oladimeji-balogun&show_icons=true&hide_border=true&count_private=true)
+**Find me:** [LinkedIn](https://www.linkedin.com/in/oladimeji-balogun/) · [X](https://x.com/dimeji_ai) · [oladimejibee.me@gmail.com](mailto:oladimejibee.me@gmail.com)
