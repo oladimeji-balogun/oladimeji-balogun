@@ -1,50 +1,29 @@
 # Hi, I'm Oladimeji 👋
 
-![Profile views](https://gpvc.arturio.dev/boladimeji834)
+**ML / AI engineer** building LLM agents, real-time voice AI, and efficient deep learning systems, with a soft spot for **low-resource African languages** and **healthcare AI**.
 
-## About Me
+I like taking models past the notebook: production-grade backends, grounded retrieval, evaluation, and systems that run under real constraints.
 
-I am a passionate **Machine Learning Engineer, Data Scientist, and AI Researcher** dedicated to building intelligent systems that drive innovation and solve real-world problems. Currently, I work at **My Health Integral**, leveraging AI to enhance healthcare outcomes through predictive modeling and deep learning solutions.  
+## 🚀 Featured projects
 
-With expertise in **computer vision, natural language processing, and statistical modeling**, I enjoy working on AI-driven applications that improve decision-making, optimize processes, and create impact across industries. My goal is to push the boundaries of AI by exploring advanced techniques, deploying scalable solutions, and contributing to open-source projects.  
+| Project | What it is | Stack |
+|---|---|---|
+| [**VoiceDesk**](https://github.com/oladimeji-balogun/voice-desk) | Real-time voice support agent for e-commerce: speak in the browser, get spoken answers grounded in orders and policies, with barge-in and VAD turn-taking. | LiveKit · Deepgram · Cartesia · OpenAI · FastAPI · pgvector |
+| [**ShopDesk Support**](https://github.com/oladimeji-balogun/shopdesk-support) | Autonomous support agent that routes every query to RAG, tool calling, or human escalation. JWT auth, rate limiting, Dockerised. | LangChain · Groq · Pinecone · FastAPI |
+| [**Photon**](https://github.com/oladimeji-balogun/photon-backend) | LLM agent system that simulates user reviews and generates personalised recommendations from the Yelp dataset. DSN × Bluechip LLM Agent Challenge, 2026. | LangGraph · Groq · BM25 · Docker |
+| [**Pneumonia XAI**](https://github.com/oladimeji-balogun/pneumonia-xai) | Explainable pneumonia detection under compute constraints. My custom 270K-param **LightCXR** hits 0.947 AUC-ROC and runs 6.5× faster on CPU than ResNet-18, with Grad-CAM. | PyTorch · Grad-CAM |
+| [**Yoruba Instruct**](https://github.com/oladimeji-balogun/yoruba-instruct) 🚧 | *In progress:* a Yoruba instruction dataset (translated Alpaca), toward fine-tuning Qwen 2.5-3B with QLoRA, SFT and DPO. | Transformers · Datasets · PyTorch |
+| [**Agentic Doctor Appointments**](https://github.com/oladimeji-balogun/agentic-doctor-appointment-system) | Multi-agent healthcare assistant that books and manages appointments. [Live demo ↗](https://agentic-doctor-appointment-system.vercel.app) | LangGraph · React · TypeScript |
 
-I thrive in collaborative environments where cutting-edge technology meets meaningful problem-solving, and I am always eager to learn, teach, and share insights in the AI/ML community.  
+## 🧰 Tools I use
 
-## ⚡ Technologies & Tools  
+**ML & LLMs:** PyTorch · Transformers · LangGraph · LangChain · RAG · QLoRA / DPO · scikit-learn<br>
+**Voice & real-time:** LiveKit · Deepgram · Cartesia · WebSockets<br>
+**Backend & data:** Python · FastAPI · PostgreSQL / pgvector · Pinecone · Docker<br>
+**Also:** C++ (CMake, gtest) · React · Go
 
-### **Programming & Frameworks**  
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)  
-![C](https://img.shields.io/badge/-C++-000?&logo=C)  
+## 📫 Reach me
 
-### **Machine Learning & Deep Learning**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)  
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-000?&logo=scikit-learn)  
+[LinkedIn](https://www.linkedin.com/in/oladimeji-balogun/) · [X / Twitter](https://x.com/dimeji_ai) · [Email](mailto:oladimejibee.me@gmail.com)
 
-### **Data Science & Analytics**  
-![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)  
-![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)  
-![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=seaborn)  
-
-### **Development & Deployment**  
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)  
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)  
-![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=streamlit)  
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes)  
-![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=heroku)  
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazon-aws)  
-
-## 📫 How to Reach Me  
-
-- [Email](mailto:boladimeji834@gmail.com)  
-- [LinkedIn](https://www.linkedin.com/in/oladimeji-balogun/)  
-- [Twitter](https://twitter.com/boladimeji834_)  
-
-## 🏆 GitHub Stats  
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=boladimeji834&show_icons=true&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=oladimeji-balogun&show_icons=true&hide_border=true&count_private=true)
